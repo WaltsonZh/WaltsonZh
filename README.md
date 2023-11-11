@@ -56,6 +56,10 @@ I'm a computer science student in Taiwan with a passion for web development. I'm
   - **MySQL:** Proficient in relational database management.
   - **Firebase Firestore:** Experienced in cloud-based, NoSQL database solutions.
   - **Azure SQL Database:** Familiar with Microsoft's cloud-based relational database service.
+ 
+- **Authentication:**
+  - **Firebase Authentication:** Implemented user authentication using Firebase.
+  - **JWT Token:** Utilized JWT tokens for secure authentication.
 
 - **Languages:**
   - **JavaScript:** Proficient
@@ -71,9 +75,7 @@ I'm a computer science student in Taiwan with a passion for web development. I'm
 
 - **APIs:** Familiar with consuming and building RESTful APIs.
 
-- **Testing:** Knowledgeable in testing frameworks such as **Jest** and **Mocha**.
-
-- **Package Managers:** Proficient in using **npm** and **yarn** for dependency management.
+- **Package Managers:** Proficient in using **npm** for dependency management.
 
 - **Build Tools:** Experienced with **Vite** for modern and fast web development.
 
@@ -133,4 +135,4 @@ Planning to Learn:
 - **C# .NET**
 - **Angular.js**
 - **Three.js**
-- **Svelte.js**
+- **Svelte**
