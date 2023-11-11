@@ -1,19 +1,5 @@
 # Hi, I'm Waltson! 👋
 
-<p align="left">
-  <a href="https://www.torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=waltsonzh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=waltsonzh&theme=radical&hide_border=true">		  
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltsonzh&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </a>
-</p>
-
 I'm a computer science student in Taiwan with a passion for web development. I'm dedicated to crafting seamless and engaging user experiences through frontend and backend technologies.
 
 ## 🔧 Skills
@@ -61,39 +47,6 @@ I'm a computer science student in Taiwan with a passion for web development. I'm
     <img src="https://skillicons.dev/icons?i=php">
 </p>
 
-
-- **Frontend:** Proficient in **React.js**, **Redux**, and **Vue.js** for building dynamic and responsive interfaces. Familiar with **Vite** for modern and fast web development.
-  
-- **Backend:** Experienced in creating robust server-side applications using **Node.js** and **Express.js**.
-
-- **Databases:**
-  - **MongoDB:** Skilled in NoSQL data management.
-  - **MySQL:** Experienced in relational database management.
-  - **Firebase Firestore:** Experienced in cloud-based, NoSQL database solutions.
-  - **Azure SQL Database:** Familiar with Microsoft's cloud-based relational database service.
-
-- **Languages:**
-  - **JavaScript:** Proficient
-  - **TypeScript:** Experienced
-  - **HTML5 and CSS3:** Experienced
-  - **C/C++:** Knowledgeable
-  - **Python:** Familiar
-  - **Java:** Familiar
-  - **PHP:** Familiar
-
-- **Object-Oriented Programming (OOP):** Experienced in applying OOP principles.
-
-- **Version Control:** Experienced with **Git** and **GitHub** for collaborative and version-controlled projects.
-
-- **APIs:** Familiar with consuming and building RESTful APIs.
-
-- **Package Managers:** Proficient in using **npm** for dependency management.
-
-Great! Let's add a section to highlight your experience with deploying frontend applications using Netlify:
-
-
-## 🔧 Skills
-
 - **Frontend:** Proficient in **React.js**, **Redux**, and **Vue.js** for building dynamic and responsive interfaces. Familiar with **Vite** for modern and fast web development.
   
 - **Backend:** Experienced in creating robust server-side applications using **Node.js** and **Express.js**.
@@ -128,15 +81,31 @@ Great! Let's add a section to highlight your experience with deploying frontend 
 
 - **Tools:** Comfortable with **VS Code** and other development tools for efficient coding.
 
+## 📊 Github Stats
+
+<div align="center">
+  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=waltsonzh&include_all_commits=true&show_icons=true&show=prs_merged&bg_color=70,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltsonzh&layout=donut&bg_color=70,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+</div>
 
 ## 🚀 Projects
 
 Here are a few projects that showcase my skills and creativity:
 
-- [Calculator clone](https://github.com/WaltsonZh/Calculator)
-- [Tic-Tac-Toe](https://github.com/WaltsonZh/TicTacToe)
-- [Weather web App](https://github.com/WaltsonZh/Weather)
-- [Organask](https://github.com/WaltsonZh/Organask)
+<div align="center">
+  <a href="https://github.com/waltsonzh/calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=waltsonzh&repo=calculator&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+  <a>
+  <a href="https://github.com/waltsonzh/tictactoe">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=waltsonzh&repo=tictactoe&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+  <a>
+  <a href="https://github.com/waltsonzh/weather">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=waltsonzh&repo=weather&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+  <a>
+  <a href="https://github.com/waltsonzh/organask">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=waltsonzh&repo=organask&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+  <a>
+</div>
 
 ## 🎓 Education
 
