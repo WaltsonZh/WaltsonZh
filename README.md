@@ -1,6 +1,6 @@
 # Hi, I'm Waltson! 👋
 
-I'm a computer science student in Taiwan with a passion for web development. I'm dedicated to crafting seamless and engaging user experiences through frontend and backend technologies.
+I'm a computer science student from Taiwan with a passion for web development. I'm dedicated to crafting seamless and engaging user experiences through frontend and backend technologies.
 
 ## 🔧 Skills
 
