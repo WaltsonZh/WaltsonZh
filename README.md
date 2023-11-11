@@ -63,6 +63,7 @@ I'm a computer science student in Taiwan with a passion for web development. I'm
 
 - **Languages:**
   - **JavaScript:** Proficient
+  - **TypeScript:** Experienced
   - **HTML5 and CSS3:** Experienced
   - **C/C++:** Knowledgeable
   - **Python:** Familiar
