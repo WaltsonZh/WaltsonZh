@@ -115,13 +115,11 @@ Here are a few projects that showcase my skills and creativity:
 - Currently pursuing a Bachelor's degree in Computer Science.
 - Also pursuing a Bachelor's program in Software Engineering.
 
-
 ## 🔗 Connect with Me
 
 - [Discord](https://discord.com/users/waltsonzh)
 - [LinkedIn](https://www.linkedin.com/in/waltsonzh)
 - [Email](waltson2003@gmail.com)
-
 
 ## 🌱 Future Learning
 
