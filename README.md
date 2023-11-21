@@ -97,16 +97,16 @@ Here are a few projects that showcase my skills and creativity:
 
 <div align="center">
   <a href="https://github.com/waltsonzh/calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=waltsonzh&repo=calculator&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+    <img src="https://github-readme-stats-indol-alpha-22.vercel.app/api/pin?username=waltsonzh&repo=calculator&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
   <a>
   <a href="https://github.com/waltsonzh/tictactoe">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=waltsonzh&repo=tictactoe&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+    <img src="https://github-readme-stats-indol-alpha-22.vercel.app/api/pin?username=waltsonzh&repo=tictactoe&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
   <a>
   <a href="https://github.com/waltsonzh/weather">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=waltsonzh&repo=weather&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+    <img src="https://github-readme-stats-indol-alpha-22.vercel.app/api/pin?username=waltsonzh&repo=weather&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
   <a>
   <a href="https://github.com/waltsonzh/organask">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=waltsonzh&repo=organask&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+    <img src="https://github-readme-stats-indol-alpha-22.vercel.app/api/pin?username=waltsonzh&repo=organask&bg_color=50,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
   <a>
 </div>
 
