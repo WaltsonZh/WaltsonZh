@@ -87,8 +87,8 @@ I'm a computer science student from Taiwan with a passion for web development. I
 ## 📊 Github Stats
 
 <div align="center">
-  <img height="210px" src="https://github-readme-stats-hdlwpxd5w-waltsonzhs-projects.vercel.app/api?username=waltsonzh&count_private=true&include_all_commits=true&show_icons=true&show=prs_merged&bg_color=70,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
-  <img height="210px" src="https://github-readme-stats-hdlwpxd5w-waltsonzhs-projects.vercel.app/api/top-langs/?username=waltsonzh&count_private=true&layout=donut&bg_color=70,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+  <img height="210px" src="https://github-readme-stats-indol-alpha-22.vercel.app/api?username=waltsonzh&count_private=true&include_all_commits=true&show_icons=true&show=prs_merged&bg_color=70,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
+  <img height="210px" src="https://github-readme-stats-indol-alpha-22.vercel.app/api/top-langs/?username=waltsonzh&count_private=true&layout=donut&bg_color=70,441953,2c76a1&title_color=fff&text_color=fff&icon_color=fff">
 </div>
 
 ## 🚀 Projects
