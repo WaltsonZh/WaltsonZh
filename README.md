@@ -129,8 +129,9 @@ Currently Learning:
 Planning to Learn:
 - **Next.js**
 - **Vitest**
-- **Pinia & Nuxt**
+- **Docker**
 - **Sass**
+- **Pinia & Nuxt**
 - **C# .NET**
 - **Angular.js**
 - **Three.js**
