@@ -113,7 +113,6 @@ Here are a few projects that showcase my skills and creativity:
 ## 🎓 Education
 
 - Currently pursuing a Bachelor's degree in Computer Science.
-- Also pursuing a Bachelor's program in Software Engineering.
 
 ## 🔗 Connect with Me
 
