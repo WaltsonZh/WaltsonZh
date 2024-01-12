@@ -47,7 +47,7 @@ I'm a computer science student from Taiwan with a passion for web development. I
     <img src="https://skillicons.dev/icons?i=php">
 </p>
 
-- **Frontend:** Proficient in **React.js**, **Redux**, and **Vue.js** for building dynamic and responsive interfaces. Familiar with **Vite** for modern and fast web development.
+- **Frontend:** Proficient in **React.js**, **Redux**, **React Native**, and **Vue.js** for building dynamic and responsive interfaces. Familiar with **Vite** for modern and fast web development.
   
 - **Backend:** Experienced in creating robust server-side applications using **Node.js** and **Express.js**.
 
@@ -123,7 +123,7 @@ Here are a few projects that showcase my skills and creativity:
 ## 🌱 Future Learning
 
 Currently Learning:
-- **React Native**
+- **Next.js**
 
 Planning to Learn:
 - **Next.js**
