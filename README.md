@@ -126,7 +126,6 @@ Currently Learning:
 - **Next.js**
 
 Planning to Learn:
-- **Next.js**
 - **Vitest**
 - **Docker**
 - **Sass**
