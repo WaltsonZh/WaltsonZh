@@ -124,6 +124,7 @@ Here are a few projects that showcase my skills and creativity:
 
 Currently Learning:
 - **Next.js**
+- **Tailwind**
 
 Planning to Learn:
 - **Vitest**
